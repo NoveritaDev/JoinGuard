@@ -1,0 +1,11 @@
+name: JoinGuard
+version: 1.0
+author: Noverita
+main: me.noverita.joinguard.Main
+api-version: 1.13
+commands:
+  joinguard:
+    description: Read joinguard logs
+    usage: /joinguard
+    permission: joinguard.logs
+    default: op
